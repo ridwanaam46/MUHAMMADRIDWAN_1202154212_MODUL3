@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="24dp"
-                android:text="Nasi goreng"
+                android:text="Aqua"
                 android:textSize="20dp" />
 
             <TextView
@@ -38,7 +38,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="75dp"
-                android:text="harga 150000" />
+                android:text="Aqua adalah minuman" />
 
         </RelativeLayout>
 
